@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2010054
+MerchantTradeNo,
+CaptureAMT,0
+UserRefundAMT,100
+UserName,test0001
+UserCellPhone,0911429215
+PlatformID,2000132
+UpdatePlatformChargeFee,Y
+PlatformChargeFee,1
+Remark,

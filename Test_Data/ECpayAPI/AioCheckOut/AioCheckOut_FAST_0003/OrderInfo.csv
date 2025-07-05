@@ -1,0 +1,12 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,200
+TradeDesc ,Trade Description CVS
+ItemName,Test Item CVS
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,CVS
+PaymentInfoURL,http://211.23.76.77:5000
+EncryptType,1

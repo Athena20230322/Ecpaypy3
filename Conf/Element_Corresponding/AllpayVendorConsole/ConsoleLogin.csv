@@ -1,0 +1,5 @@
+Name,Element_identifier,Type,note
+Submit_login_button,LoginAllpay,id,
+Login_username,Account,id,
+Login_password,Password,id,
+Captcha_answer,allpayCaptchaValue,id,

@@ -1,0 +1,12 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,100
+TradeDesc ,Trade Description
+ItemName,Item FAST0005
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,ALL
+PaymentInfoURL,http://211.23.76.77:5000
+EncryptType,1

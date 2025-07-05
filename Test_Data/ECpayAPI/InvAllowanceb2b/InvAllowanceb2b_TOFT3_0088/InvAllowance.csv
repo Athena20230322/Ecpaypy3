@@ -1,0 +1,17 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+MerchantID,2000132
+AllowanceDate,AUTO_GEN_DATETIME
+CustomerEmail,test@tt.cc;test1@tt.cc;test2@tt.cc;test3@tt.cc
+TaxAmount,1
+TotalAmount,10
+OriginalInvoiceNumber,
+OriginalInvoiceDate,AUTO_GEN_DATE
+OriginalSequenceNumber,1
+ItemName,1)+or+sleep(__TIME__)%23
+ItemCount,1
+ItemPrice,10
+ItemAmount,10
+Tax,1

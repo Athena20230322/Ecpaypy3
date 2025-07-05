@@ -1,0 +1,6 @@
+Argument,Value
+domain,ecpay-php.myshopify.com
+id,34db86bc-241d-4701-9ff9-59f0c65665e6
+version,2021-10
+cancel_url,https://www.ecpay.com.tw/
+type,offsite

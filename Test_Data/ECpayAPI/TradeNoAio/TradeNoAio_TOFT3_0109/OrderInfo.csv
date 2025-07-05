@@ -1,0 +1,10 @@
+Argument,Value
+MerchantID,3002607
+DateType,6
+BeginDate,2022-04-01
+EndDate,AUTO_INJECT_KEY
+PaymentType,
+PlatformStatus,
+PaymentStatus,
+AllocateStatus,
+MediaFormated,1

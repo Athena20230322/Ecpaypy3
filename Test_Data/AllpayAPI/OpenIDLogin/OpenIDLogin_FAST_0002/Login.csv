@@ -1,0 +1,4 @@
+Argument,Value
+MerchantID,2000132
+TimeStamp,AUTO_GEN_UNIXSTAMP
+LoginBackUrl,https://payment-stage.ecpay.com.tw/MockMerchant/BindingCardIDClientReply

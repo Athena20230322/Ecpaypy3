@@ -1,0 +1,13 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+StoreID,storeid123
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount,10
+TradeDesc,Trade Description
+ItemName,Item TOFT20058
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,Credit
+PaymentInfoURL,http://211.23.76.77:5000
+EncryptType,1

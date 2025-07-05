@@ -1,0 +1,8 @@
+Argument,Value
+PlatformID,2000132
+TimeStamp,AUTO_GEN_UNIXSTAMP
+Account,0961100672
+ID,GEN_ID
+AppCode,mark
+BindResultClientURL,https://payment-stage.ecpay.com.tw/MockMerchant/BindingCardIDClientReply
+TransSeller,1

@@ -1,0 +1,12 @@
+Argument,Value
+MerchantID,2000132
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+InvoiceDate,AUTO_GEN_DATE
+InvoiceNumber,AUTO_INJECT_KEY
+AllowanceNo,
+NotifyMail,test@tt.cc;test1@tt.cc;test2@tt.cc;test3@tt.cc
+InvoiceTag,1
+Notified,A
+RandomNumber,

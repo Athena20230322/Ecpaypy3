@@ -1,0 +1,7 @@
+*.pyc
+Settings.ini
+DSDB_*
+*.log
+*.db
+*.png
+TestTaskDB.db

@@ -1,0 +1,10 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+MerchantID,2000132
+InvoiceDate,AUTO_GEN_DATETIME
+InvoiceNumber,
+Remark,測試確認開立
+Reason,%EF%BC%B2%EF%BC%B4
+RandomNumber,

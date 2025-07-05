@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,allpay1234
+MerchantTradeDate,2016/08/01 08:00:00
+LogisticsType,CVS
+LogisticsSubType,FAMI
+GoodsAmount,5000
+SenderName,Mark
+ReceiverName,Vera
+ServerReplyURL,http://211.23.76.77:5000
+ReceiverStoreID,010477

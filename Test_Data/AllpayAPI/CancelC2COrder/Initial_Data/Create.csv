@@ -1,0 +1,25 @@
+Argument,Value
+MerchantID,2000933
+MerchantTradeNo,
+MerchantTradeDate,
+LogisticsType,CVS
+LogisticsSubType,UNIMARTC2C
+GoodsAmount,100
+CollectionAmount,
+IsCollection,N
+GoodsName,test item
+SenderName,Bying
+SenderPhone,
+SenderCellPhone,0922652130
+ReceiverName,Ying
+ReceiverPhone,
+ReceiverCellPhone,0922652130
+ReceiverEmail,
+TradeDesc,
+ServerReplyURL,http://211.23.128.214:5000
+ClientReplyURL,
+LogisticsC2CReplyURL,http://211.23.128.214:5000
+Remark,
+PlatformID,
+ReceiverStoreID,981901
+ReturnStoreID,985707

@@ -1,0 +1,16 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+PlatformID,
+MerchantID,2000132
+RqID,AUTO_GEN_GUID
+Revision,1.0.0
+MerchantMemberID,
+Email,test@gmail.com
+Phone,0910000222
+Name,黃小鴨
+CountryCode,002
+Address,testrrrr
+CustomField,
+BindCardReturnURL,http://211.23.76.77:5000
+MerchantTradeNo,AUTO_GEN_MERC_ID
+TotalAmount,5000

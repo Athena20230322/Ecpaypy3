@@ -1,0 +1,8 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+LogisticsType,CB
+LogisticsSubType,UNIMARTCBCVS
+Destination,MY
+ServerReplyURL,http://192.168.150.131:5000
+ExtraData,

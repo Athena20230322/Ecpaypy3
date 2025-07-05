@@ -1,0 +1,21 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount,19999
+TradeDesc ,Trade Description
+ItemName,Test Item
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,ALL
+IgnorePayment,WebATM#ATM#CVS#BARCODE
+PaymentInfoURL,http://211.23.76.77:5000
+CreditInstallment,30N
+NeedExtraPaidInfo,Y
+UnionPay,0
+StoreID,
+CustomField1,
+CustomField2,
+CustomField3,
+CustomField4,
+EncryptType,1

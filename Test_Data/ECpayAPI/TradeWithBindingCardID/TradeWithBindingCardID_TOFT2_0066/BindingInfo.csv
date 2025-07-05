@@ -1,0 +1,10 @@
+Argument,Value
+MerchantID,3002607
+MerchantMemberID,
+ServerReplyURL,http://211.23.76.77:5000
+ClientRedirectURL,https://payment-stage.ecpay.com.tw/MockMerchant/BindingCardIDClientReply
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+TotalAmount,1
+TradeDesc,test
+Stage,9

@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000132
+AllpayLosigticsID,allpay1234
+ServerReplyURL,http://211.23.76.77:5000
+GoodsAmount,5000
+Temperature,0001
+Distance,00
+Specification,0001
+ScheduledDeliveryTime,4
+ScheduledDeliveryDate,2016/08/03
+PackageCount,1

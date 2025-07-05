@@ -1,0 +1,25 @@
+Argument,Value
+MerchantID,2000132
+PlatformID,
+Timestamp,AUTO_GEN_UNIXSTAMP
+MerchantTradeNo,
+MerchantTradeDate,AUTO_GEN_DATETIME
+LogisticsType,CB
+LogisticsSubType,UNIMARTCBHOME
+Revision,1.0.0
+GoodsAmount,1000
+GoodsWeight,5.0
+GoodsEnglishName,goods
+ReceiverCountry,SG
+ReceiverName,Yao
+ReceiverCellPhone,659561223
+ReceiverStoreID,
+ReceiverZipCode,00000
+ReceiverAddress,fsadfsa
+ReceiverEmail,adan.yao@ecpay.com.tw
+SenderName,Bying
+SenderCellPhone,0922652130
+SenderAddress,Taipei TEST.123
+SenderEmail,autoecpay@gmail.com
+Remark,test
+ServerReplyURL,http://211.23.76.77:5000

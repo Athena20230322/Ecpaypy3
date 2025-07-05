@@ -1,0 +1,18 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,100
+TradeDesc ,Trade Description APPBAR
+ItemName,Test Item APPBAR
+ReturnURL,http://104.214.145.51
+ChoosePayment,APPBARCODE
+PaymentInfoURL,http://104.214.145.51
+DeviceSource,M
+StoreID,
+CustomField1,
+CustomField2,
+CustomField3,
+CustomField4,
+EncryptType,1

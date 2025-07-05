@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000132
+AllpayLosigticsID,allpay1234
+GoodsAmount,5000
+ServiceType,4
+SenderName,Mark
+SenderPhone,0912345678
+Remark,test
+Quantity,1
+Cost,1000
+PlatformID,2000214

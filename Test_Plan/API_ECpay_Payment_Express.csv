@@ -1,0 +1,17 @@
+Device,Package,TestSet
+APITest01,Chrome,AioChkout
+APITest01,Chrome,Capture
+APITest01,Chrome,QueryCreditTrade
+APITest01,Chrome,QueryTradeInfo
+APITest01,Chrome,QueryTradeInfoV4
+APITest01,Chrome,QueryTradeInfoV5
+APITest01,Chrome,AioChkoutV4
+APITest01,Chrome,EditCardID
+APITest01,Chrome,BindingTrade
+APITest01,Chrome,AuthCardID
+APITest01,Chrome,AioChkoutV5
+APITest01,Chrome,QueryMemberBinding
+APITest01,Chrome,BindingCardID
+APITest01,Chrome,DeleteCardID
+APITest01,mChrome,mSPCreateTrade
+APITest01,Chrome,SPCreateTrade

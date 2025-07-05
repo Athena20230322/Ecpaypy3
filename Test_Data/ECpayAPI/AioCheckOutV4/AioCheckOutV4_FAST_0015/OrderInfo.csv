@@ -1,0 +1,24 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,100
+TradeDesc ,Trade Description
+ItemName,Item RAT0001
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,ApplePay
+PaymentInfoURL,http://211.23.76.77:5000
+InvoiceMark,Y
+InvoiceItemCount,1
+InvoiceItemPrice,100
+RelateNumber,AUTO_GEN_MERC_ID
+InvoiceItemName,FAST0010 test
+InvoiceItemWord,1
+InvoiceItemTaxType,1
+TaxType,1
+CustomerPhone,0972005542
+DelayDay,0
+InvoiceRemark,remark: content
+InvType,07
+EncryptType,1

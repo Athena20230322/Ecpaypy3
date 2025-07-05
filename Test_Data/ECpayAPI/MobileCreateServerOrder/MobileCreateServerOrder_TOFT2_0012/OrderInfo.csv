@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000214
+AppCode,test1234
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+TotalAmount,100
+TradeDesc,Trade Description
+ItemName,Item Name
+ChoosePayment,CVS
+ChooseSubPayment,CVS
+PlatformID,

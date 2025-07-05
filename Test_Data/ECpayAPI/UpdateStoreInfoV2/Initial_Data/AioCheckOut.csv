@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000933
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,1
+TradeDesc ,Trade Description
+ItemName,Item RAT0001
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,Credit
+PaymentInfoURL,http://211.23.76.77:5000

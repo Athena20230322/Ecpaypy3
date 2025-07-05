@@ -1,0 +1,13 @@
+Argument,Value
+MerchantID,2000214
+MerchantTradeNo,AUTO_GEN_MERC_ID
+PlatformID,2000132
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount,10
+TradeDesc,Trade Description
+ItemName,Test Item
+ReturnURL,http://40.74.118.103
+ChoosePayment,ALL
+PaymentInfoURL,http://40.74.118.103
+EncryptType,1

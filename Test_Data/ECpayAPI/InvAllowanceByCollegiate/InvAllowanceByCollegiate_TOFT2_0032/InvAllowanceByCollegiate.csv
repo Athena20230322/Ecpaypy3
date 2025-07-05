@@ -1,0 +1,15 @@
+Argument,Value
+TimeStamp,AUTO_GEN_UNIXSTAMP
+MerchantID,2000132
+InvoiceNo,GEN_FROM_ISSUE
+AllowanceNotify,E
+CustomerName,%e6%b8%ac%e8%a9%a6
+NotifyMail,test%40opay.tw
+NotifyPhone,
+AllowanceAmount,90
+ItemName,%e6%b8%ac%e8%a9%a6%e5%93%81%e5%90%8d
+ItemCount,1
+ItemWord,%e6%94%af
+ItemPrice,90
+ItemTaxType,
+ItemAmount,90

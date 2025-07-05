@@ -1,0 +1,12 @@
+Argument,Value
+MerchantID,2000132
+AllPayLogisticsID,
+ServerReplyURL,http://211.23.76.77:5000
+GoodsName,test item1#test item2
+GoodsAmount,100
+CollectionAmount,0
+ServiceType,4
+SenderName,Ying
+SenderPhone,0922652130
+Remark, test
+PlatformID,

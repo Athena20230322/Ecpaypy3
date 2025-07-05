@@ -1,0 +1,14 @@
+Device,Package,TestSet
+APITest01,Chrome,InvAllowance
+APITest01,Chrome,InvAllowanceInvalid
+APITest01,Chrome,InvDelay
+APITest01,Chrome,InvIssue
+APITest01,Chrome,InvIssueInvalid
+APITest01,Chrome,InvNotify
+APITest01,Chrome,InvQuery
+APITest01,Chrome,InvQueryInvalid
+APITest01,Chrome,InvQueryAllowance
+APITest01,Chrome,InvQueryAllowanceInvalid
+APITest01,Chrome,InvQueryChkLoveCode
+APITest01,Chrome,InvQueryChkMobBarCode
+APITest01,Chrome,InvTrigger

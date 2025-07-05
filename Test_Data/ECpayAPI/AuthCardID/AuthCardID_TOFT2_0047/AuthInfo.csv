@@ -1,0 +1,8 @@
+Argument,Value
+MerchantID,2000214
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+TotalAmount,1
+TradeDesc,%ef%bd%94%ef%bd%85%ef%bd%93%ef%bd%94%ef%bc%a4%ef%bd%85%ef%bd%93%ef%bd%83
+CardID,GEN_BY_BINDING
+Stage,0

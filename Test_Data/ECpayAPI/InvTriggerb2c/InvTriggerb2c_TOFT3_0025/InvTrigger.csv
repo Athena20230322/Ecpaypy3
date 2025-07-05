@@ -1,0 +1,8 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+MerchantID,2000132
+PlatformID,3083192
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+Tsr,sleep(__TIME__)#
+PayType,3

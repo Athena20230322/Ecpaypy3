@@ -1,0 +1,9 @@
+Argument,Value
+MerchantID,2000933
+MerchantTradeNo,AUTO_GEN_MERC_ID
+LogisticsType,CVS
+LogisticsSubType,FAMIC2C
+IsCollection,N
+ServerReplyURL,http://192.168.150.131:5000
+ExtraData,
+Device,

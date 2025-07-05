@@ -1,0 +1,17 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,100
+TradeDesc ,Trade Description
+ItemName,Item RAT0001
+ReturnURL,http://40.74.118.103
+ChoosePayment,ALL
+PaymentInfoURL,http://40.74.118.103
+StoreID,
+CustomField1,
+CustomField2,
+CustomField3,
+CustomField4,
+EncryptType,1

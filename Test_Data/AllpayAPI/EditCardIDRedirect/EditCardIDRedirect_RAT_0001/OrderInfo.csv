@@ -1,0 +1,6 @@
+Argument,Value
+MerchantID,2001867
+MerchantMemberID,
+ServerReplyURL,http://211.23.128.214:5000
+ClientRedirectURL,https://payment-stage.ecpay.com.tw/MockMerchant/BindingCardIDClientReply
+CardID,

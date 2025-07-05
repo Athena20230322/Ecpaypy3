@@ -1,0 +1,25 @@
+Argument,Value
+MerchantID,2000933
+MerchantTradeNo,
+MerchantTradeDate,
+LogisticsType,CVS
+LogisticsSubType,FAMIC2C
+GoodsAmount,100
+CollectionAmount,
+IsCollection,N
+GoodsName,test item
+SenderName,Bying
+SenderPhone,
+SenderCellPhone,
+ReceiverName,Ying
+ReceiverPhone,
+ReceiverCellPhone,0912345678
+ReceiverEmail,
+TradeDesc,
+ServerReplyURL,http://211.23.76.77:5000
+ClientReplyURL,
+LogisticsC2CReplyURL,
+Remark,
+PlatformID,
+ReceiverStoreID,013755
+ReturnStoreID,006598

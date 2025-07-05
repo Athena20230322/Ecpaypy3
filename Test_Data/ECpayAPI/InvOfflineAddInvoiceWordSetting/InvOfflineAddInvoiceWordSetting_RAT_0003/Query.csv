@@ -1,0 +1,13 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+MerchantID,3085340
+InvoiceTerm,6
+InvoiceYear,111
+InvType,07
+InvoiceCategory,4
+InvoiceHeader,ZO
+InvoiceStart,10000000
+InvoiceEnd,10000149
+MachineID,2021101509

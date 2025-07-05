@@ -1,0 +1,14 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+MerchantID,2000132
+RqID,AUTO_GEN_GUID
+Revision,1.0.0
+UseType,0
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+TotalAmount,5000
+Email,test@gmail.com
+Phone,0910000222
+Name,黃小鴨
+CountryCode,002
+AppStoreName,test

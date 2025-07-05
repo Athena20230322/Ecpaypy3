@@ -1,0 +1,9 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+MerchantID,3085340
+InvoiceNo,
+InvoiceDate,2022-05-04
+Reason,test1
+CancelDate,2022-05-04

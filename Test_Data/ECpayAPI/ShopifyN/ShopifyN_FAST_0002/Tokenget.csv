@@ -1,0 +1,11 @@
+Argument,Value
+id,AUTO_GEN_MERC_ID
+proposed_at,AUTO_GEN_DATETIME
+amount,100.00
+payment_method,
+group,oo8ZO3Fx1CZepDgGgJf5Uqx1xxuU0E0Ae91TYQMx2sk=
+currency,TWD
+merchant_locale,zh-TW
+test,1
+gid,gid://shopify/PaymentSession/
+kind,authorization

@@ -1,0 +1,13 @@
+Argument,Value
+MerchantID,2000214
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount,50
+TradeDesc,Trade Description
+ItemName,Item RAT0001
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,ATM
+PaymentInfoURL,http://211.23.76.77:5000
+ClientBackURL,https://www.ecpay.com.tw
+EncryptType,1

@@ -1,0 +1,25 @@
+Argument,Value
+MerchantID,2000933
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+LogisticsType,CVS
+LogisticsSubType,HILIFEC2C
+GoodsAmount,100
+CollectionAmount,100
+IsCollection,Y
+GoodsName,test Item
+SenderName,Mark
+SenderPhone,
+SenderCellPhone,0911429215
+ReceiverName,Vera
+ReceiverPhone,
+ReceiverCellPhone,0961100672
+ReceiverEmail,
+TradeDesc,
+ServerReplyURL,http://211.23.76.77:5000
+ClientReplyURL,
+LogisticsC2CReplyURL,http://211.23.76.77:5000
+Remark,
+PlatformID,
+ReceiverStoreID,3750
+ReturnStoreID,

@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_UNIXSTAMP
+Timestamp,AUTO_GEN_UNIXSTAMP
+TempLogisticsID,0
+GoodsAmount,20000
+IsCollection,
+CollectionAmount,
+GoodsName,test
+PlatformID,
+Revision,1.0.0

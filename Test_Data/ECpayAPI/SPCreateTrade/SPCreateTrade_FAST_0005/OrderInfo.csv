@@ -1,0 +1,34 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,60
+TradeDesc ,Trade Description
+ItemName,Test Item
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,Credit
+PaymentInfoURL,http://211.23.76.77:5000
+CreditInstallment,6
+NeedExtraPaidInfo,Y
+StoreID,
+CustomField1,
+CustomField2,
+CustomField3,
+CustomField4,
+InvoiceMark,Y
+RelateNumber,AUTO_GEN_MERC_ID
+CustomerName,%e7%8e%8b%e5%a4%a7%e6%98%8e
+CustomerAddr,%E8%87%BA%E5%8C%97%E5%B8%82%E5%8D%97%E6%B8%AF%E5%8D%80%E4%B8%89%E9%87%8D%E8%B7%AF19-2%E8%99%9F5%E6%A8%93()
+TaxType,1
+Donation,0
+Print,1
+CustomerEmail,abc%40ecpay.com.tw
+CarruerType,
+CarruerNum,
+InvoiceItemName,Test Item
+InvoiceItemCount,1
+InvoiceItemWord,%e6%94%af
+InvoiceItemPrice,60
+DelayDay,0
+InvType,07

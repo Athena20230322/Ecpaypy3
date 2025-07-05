@@ -1,0 +1,14 @@
+Argument,Value
+MerchantID,2000132
+LogisticsID,
+ServerReplyURL,http://211.23.76.77:5000
+GoodsName,test
+GoodsAmount,1
+CollectionAmount,0
+ServiceType,4
+SenderName,Sam
+SenderPhone,0912345678
+Remark,test
+PlatformID,
+Timestamp,AUTO_GEN_UNIXSTAMP
+Revision,1.0.0

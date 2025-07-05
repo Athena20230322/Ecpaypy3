@@ -1,0 +1,12 @@
+Argument,Value
+x_reference,AUTO_GEN_UNIXSTAMP
+x_account_id,3084209
+x_amount,100.00
+x_description,test
+x_shop_name,test
+x_url_callback,http://127.0.0.1
+x_url_complete,http://127.0.0.1
+x_url_cancel,http://127.0.0.1
+x_currency,TWD
+x_shop_country,TW
+x_test,true

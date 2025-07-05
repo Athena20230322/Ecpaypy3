@@ -1,0 +1,5 @@
+Device,Package,TestSet
+APITest01,Chrome,AllpayAioChkout
+APITest01,Chrome,AllpayTradeNoAio
+APITest01,Chrome,AllpayCapture
+APITest01,Chrome,AllpayQueryCreditTrade

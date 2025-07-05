@@ -1,0 +1,13 @@
+Argument,Value
+MerchantID,2000132
+Timestamp,AUTO_GEN_UNIXSTAMP
+PlatformID,3083192
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+InvoiceNo,
+AllowanceNo,
+Phone,
+NotifyMail,techsupport@ecpay.com.tw
+Notify,E
+InvoiceTag,I
+Notified,A

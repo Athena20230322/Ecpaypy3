@@ -1,0 +1,8 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+PlatformID,
+MerchantID,2000132
+RqID,AUTO_GEN_GUID
+Revision,1.0.0
+PayToken,
+MerchantTradeNo,AUTO_GEN_MERC_ID

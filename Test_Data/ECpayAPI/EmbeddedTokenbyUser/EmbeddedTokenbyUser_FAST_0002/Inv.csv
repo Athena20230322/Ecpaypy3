@@ -1,0 +1,14 @@
+Argument,Value
+Timestamp,AUTO_GEN_UNIXSTAMP
+PlatformID,
+MerchantID,2000132
+RqID,AUTO_GEN_GUID
+Revision,1.0.0
+ConsumerInfo,
+MerchantMemberID,test12345
+Email,test@gmail.com
+Phone,0910000222
+Name,黃小鴨
+CountryCode,002
+Address,tewttte
+CustomField,

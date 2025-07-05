@@ -1,0 +1,9 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,
+LogisticsType,CVS
+LogisticsSubType,FAMI
+IsCollection,N
+ServerReplyURL,http://192.168.50.88:5000
+ExtraData,
+Device,

@@ -1,0 +1,7 @@
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_RAT_0001.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_FAST_0002.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_TOFT2_0003.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_TOFT2_0004.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_TOFT2_0005.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_TOFT2_0006.py
+ECpayAPI\EditCardIDWithAuth\EditCardIDWithAuth_TOFT2_0007.py

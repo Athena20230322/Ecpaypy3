@@ -1,0 +1,17 @@
+Argument,Value
+PlatformID,3002599
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,100
+TradeDesc ,Trade Description
+ItemName,Test Item
+ReturnURL,http://211.23.76.77:5000
+ChoosePayment,Credit
+PaymentInfoURL,http://211.23.76.77:5000
+NeedExtraPaidInfo,Y
+PeriodAmount,100
+PeriodType,M
+Frequency,1
+ExecTimes,12
+EncryptType,1

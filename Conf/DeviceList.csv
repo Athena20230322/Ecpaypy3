@@ -1,0 +1,7 @@
+Device_Frendly_Name,Device_Host,Device_Name,Platform,OS_Version
+Real_Sony_Z_Ultra,192.168.0.2,EP7328J4HM,Android,5.1
+WebTest01,192.168.0.2,,Web,
+WebTest02,192.168.19.128,,Web,
+WebTest03,192.168.19.129,,Web,
+APITest01,192.168.150.130,,API,
+SQLTest01,192.168.0.2,10.201.130.4,SQL,

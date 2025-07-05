@@ -1,0 +1,12 @@
+Argument,Value
+MerchantID,2000132
+Timestamp,AUTO_GEN_UNIXSTAMP
+RqID,AUTO_GEN_GUID
+Revision,3.0.0
+InvoiceDate,AUTO_GEN_DATE
+InvoiceNumber,
+AllowanceNo,
+NotifyMail,ying.wu@allpay.com.tw
+InvoiceTag,2
+Notified,C
+RandomNumber,

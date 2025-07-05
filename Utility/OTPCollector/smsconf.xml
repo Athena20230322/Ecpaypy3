@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<settings>
+    <phone number="+886911510682">
+        <Catagory value="Allpay_Credit_Payment">
+            <MsgPattern>you go</MsgPattern>
+            <InfoPattern>https://p-stage.ecpay.com.tw/[A-Z][a-z][0-9]{5}</InfoPattern>
+        </Catagory>
+    </phone>
+    <phone number="0903449185">
+        <Catagory value="ECpay_Refund">
+            <MsgPattern>您有一筆退款金額來自.*【綠界科技】</MsgPattern>
+            <InfoPattern>https://p-stage.ecpay.com.tw/[A-Za-z0-9]{5}</InfoPattern>
+        </Catagory>
+        <Catagory value="ECpay_Credit_Payment">
+            <MsgPattern>^【綠界科技】第三方支付簡訊.*$</MsgPattern>
+            <InfoPattern>\d\d\d\d</InfoPattern>
+        </Catagory>
+        <Catagory value="ECpay_Credit_Payment_ENG">
+            <MsgPattern>^【ECPAY】The verify code.*$</MsgPattern>
+            <InfoPattern>[\d]{4}</InfoPattern>
+        </Catagory>
+                <Catagory value="ECpay_Credit_Payment_KOR">
+            <MsgPattern>^【ECPAY】현재 ECpay의 카드결제.*$</MsgPattern>
+            <InfoPattern>\d\d\d\d</InfoPattern>
+        </Catagory>
+        <Catagory value="ECpay_Credit_Payment_JPN">
+            <MsgPattern>^【ECPAY】ECPayの決済システムを.*$</MsgPattern>
+            <InfoPattern>\d\d\d\d</InfoPattern>
+        </Catagory>
+        <Catagory value="ECpay_Credit_Payment_CHI">
+            <MsgPattern>^【绿界科技】第三方支付简讯.*$</MsgPattern>
+            <InfoPattern>\d\d\d\d</InfoPattern>
+        </Catagory>
+    </phone>
+</settings>

@@ -1,0 +1,27 @@
+Argument,Value
+MerchantID,2000132
+AllPayLogisticsID,
+LogisticsSubType,TCAT
+ServerReplyURL,http://211.23.76.77:5000
+SenderName,
+SenderPhone,
+SenderCellPhone,
+SenderZipCode,
+SenderAddress,
+ReceiverName,
+ReceiverPhone,
+ReceiverCellPhone,
+ReceiverZipCode,
+ReceiverAddress,
+GoodsAmount,100
+GoodsName,test item
+Temperature,0001
+Distance,00
+Specification,0001
+ScheduledPickupTime,4
+ScheduledDeliveryTime,4
+ScheduledDeliveryDate,
+PackageCount,1
+Remark,
+PlatformID,
+ReceiverEmail,autoecpay123@gmail.com

@@ -1,0 +1,86 @@
+
+
+# Static Import Area
+import argparse
+import os
+import time
+
+from Allpay.ProdActions.ActAllpayAPI.ActprintTradeDocument import actprintTradeDocument
+from Allpay.Verification.VerifyAllpayAPI.VerifyprintTradeDocument import verifyprintTradeDocument
+from LibGeneral.TestHelper import classTestHelper
+from SeleniumHelper.SeleniumHelper import clsWebDriverHelper
+
+# (DO NO Edit) Static declare
+
+ARGP = argparse.ArgumentParser(description='Script for exec test.')
+ARGP.add_argument('--logdir', type=str, help='Specify the log dir')
+ARGP.add_argument('--package', type=str, help='Specify the package name')
+ARGP.add_argument('--runid', type=str, default='', help='Specify the runtime guid for this run.')
+ARGS = ARGP.parse_args()
+LOG_DIR = ARGS.logdir
+PKG = ARGS.package
+RUN_UID = ARGS.runid
+CASE_NAME = str(os.path.basename(__file__)).rstrip('.py')
+SUM_LOG = os.path.join(LOG_DIR, CASE_NAME, 'Summary.log')
+HELPER = classTestHelper(SUM_LOG)
+DRIVER = clsWebDriverHelper().initWebDriver(PKG)
+ROOTDIR = HELPER.rootdir
+EXEC_ACT = HELPER.execTestAction
+VERIFY = HELPER.execTestVerify
+
+# Declare feature testing instances
+
+PTD_APT = actprintTradeDocument()
+VER_API = verifyprintTradeDocument()
+
+# Testing exec
+
+# Precondition create Allpay new order info
+
+ORDER_INFO_CSV = os.path.join(ROOTDIR, 'Test_Data', 'AllpayAPI', 'printTradeDocument', 'Initial_Data', 'AioCheckOut.csv')
+
+EXEC_ACT(PTD_APT.enableWebOperate, DRIVER)
+
+order_info = EXEC_ACT(PTD_APT.genOrderRequestInfoAio, ORDER_INFO_CSV)
+
+EXEC_ACT(PTD_APT.createOrderByBrowser, DRIVER, order_info, 'ChkoutAP_API')
+
+# EXEC_ACT(PTD_APT.inputPaymentPageCreditInfoAP, 'A129618149', '4311-9522-2222-2222', '22', '05', '222', '0922652130')
+
+# otp_info = EXEC_ACT(PTD_APT.queryCreditOTP, '0922652130')
+
+# EXEC_ACT(PTD_APT.inputOTP, otp_info)
+
+# Precondition create new logistics order info
+
+ORDER_INFO_CSV_CRT = os.path.join(ROOTDIR, 'Test_Data', 'AllpayAPI', 'printTradeDocument', 'Initial_Data', 'Create.csv')
+
+order_info_crt = EXEC_ACT(PTD_APT.genOrderRequestCreate, ORDER_INFO_CSV_CRT, order_info['MerchantTradeNo'],
+                          order_info['MerchantTradeDate'])
+
+# EXEC_ACT(CRT_APT.createOrderByBrowser, DRIVER, order_info_crt)
+EXEC_ACT(VER_API.enableWebOperate, DRIVER)
+
+order_info_crt_res = EXEC_ACT(PTD_APT.genpostRequestToAPI, order_info_crt,
+                              'https://logistics-stage.allpay.com.tw/Express/Create')
+
+VERIFY(VER_API.verifyApCreateCloseResult, order_info_crt_res)
+
+# Do printTradeDocument_API test
+
+ORDER_INFO_CVS_PTD = os.path.join(ROOTDIR, 'Test_Data', 'AllpayAPI', 'printTradeDocument', CASE_NAME, 'OrderInfo.csv')
+
+modify_str = EXEC_ACT(PTD_APT.modifyAllpaylogisticsSplit, order_info_crt_res)
+
+order_info_ptd = EXEC_ACT(PTD_APT.genOrderRequestInfo, ORDER_INFO_CVS_PTD, modify_str)
+
+EXEC_ACT(PTD_APT.createOrderByBrowser, DRIVER, order_info_ptd, 'pritTradDoc_API')
+
+VERIFY(VER_API.verifypriTradeDocumentCloseResult)
+
+DRIVER.delete_all_cookies()
+DRIVER.quit()
+
+
+# (DO NO Edit) Result processing
+HELPER.processResult(caserun_uid=RUN_UID)

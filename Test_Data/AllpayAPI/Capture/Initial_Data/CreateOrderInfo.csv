@@ -1,0 +1,11 @@
+Argument,Value
+MerchantID,2000132
+MerchantTradeNo,AUTO_GEN_MERC_ID
+MerchantTradeDate,AUTO_GEN_DATETIME
+PaymentType,aio
+TotalAmount ,50
+TradeDesc ,Trade Description
+ItemName,Test Item
+ReturnURL,https://payment-stage.ecpay.com.tw/MockMerchant/ReceiveAioSimulatedPay
+ChoosePayment,WebATM
+HoldTradeAMT,1

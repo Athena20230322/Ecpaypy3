@@ -1,0 +1,7 @@
+Name,Element_identifier,Type,note
+Logout_button,a.button.out,css,
+Submit_login_button,SubmitLogin,id,
+Login_username,UserCode,id,
+Login_password,Pwd,id,
+Captcha_answer,login-captcha,id,
+Remember_me_checkbox,IsRememberMe,id,

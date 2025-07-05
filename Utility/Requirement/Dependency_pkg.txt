@@ -1,0 +1,8 @@
+requests
+prettytable
+colorama
+selenium
+Pillow
+pymssql
+mysqlclient
+cryptography
